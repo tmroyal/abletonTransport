@@ -8,7 +8,7 @@ I wanted to be able to start and stop Ableton while using VS Code.
 
 ## Usage
 
-Run app.j.
+Run using command line.
 
 When app has run:
 
